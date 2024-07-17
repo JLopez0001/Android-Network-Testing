@@ -2,6 +2,8 @@ from appium import webdriver
 from appium.options.android import UiAutomator2Options
 
 appium_server_url = 'http://localhost:4723'
+
+#### PLEASE INPUT DEVICE SERIAL NUMBER BELOW #######
 device_serial_number = '1A261JEG502007'
 
 def get_driver():
