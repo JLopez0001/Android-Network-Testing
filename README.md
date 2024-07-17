@@ -68,6 +68,10 @@ cd Gattaca-Take-Home
 appium --config appiumrc.json 
 ```
 
+### *Before running test please go to utils/appium_setup.py and input your own device serializer number*
+```bash
+cd Gattaca-Take-Home/Utils/appium_setup.py
+```
 
 To run the tests, open another terminal and execute the following command:
 
