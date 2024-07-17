@@ -1,0 +1,6 @@
+{
+    "server": {
+      "allow-insecure": ["adb_shell"]
+    }
+}
+  

@@ -1,0 +1,31 @@
+# Gattaca Full Stack Eng Take Home
+
+Quick reminder - we are working on AI based QA solution for mobile teams - 
+[https://www.gattacatech.com](https://www.gattacatech.com/). We don't really believe 
+in test assignments which are not real, so this will super simplified version of what 
+your day to day tasks may look like.
+
+**Some details:**
+
+- We won't use this assignment in any form.
+- All the candidates receive the same assignment.
+- Do not spend more than 4h on this task.
+
+**Task:**
+
+Ok, so your task is to develop a generalized AI test which will test how **Android** game/app 
+behaves when we launch the app on **a real device** without internet connection as well as what
+ happens when connection is back online.
+
+You can use any tools / API / SDKs / programming language to complete this task, as soon as 
+you provide a clear README with steps required to launch the test.
+
+**FAQ:**
+
+- What is the timeline for this assignment?
+    
+    We don't have time limits, but obviously the faster the better.
+
+
+Appium-Python-Client
+openai
